@@ -1,7 +1,7 @@
 git+https://github.com/huggingface/transformers
 git+https://github.com/huggingface/accelerate
 git+https://github.com/huggingface/peft
-git+https://github.com/huggingface/trl
+trl
 huggingface-hub
 bitsandbytes
 evaluate
@@ -9,3 +9,6 @@ datasets
 einops
 wandb
 tiktoken
+deepspeed
+tqdm
+safetensors
